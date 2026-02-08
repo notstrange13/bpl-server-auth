@@ -97,13 +97,19 @@ or
 
 
 ✔ No Supabase keys inside the mod
+
 ✔ UUID-based authentication
+
 ✔ Short-lived login codes
+
 ✔ Async HTTP calls (non-blocking)
+
 ✔ Server-side enforcement
 
 ❌ Username-based auth
+
 ❌ Client-side verification
+
 ❌ Long-lived tokens
 
 ## 🧪 Example Backend Logic (Conceptual)
